@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+gower
+prince
+lifelines
+shap
+
